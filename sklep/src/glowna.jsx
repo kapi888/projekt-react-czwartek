@@ -5,9 +5,9 @@ function App() {
     <div className="shop">
       <header className="header">
         <div className="header-top">
-          <a className="logo" href="#top">sklep</a>
+          <a className="logo" href="#main">sklep</a>
           <div className="search">
-            <input type="search" placeholder="Czego szukasz?" readOnly />
+            <input type="search" placeholder="Czego szukasz?"/>
             <button type="button">Szukaj</button>
           </div>
           <span className="cart">Koszyk</span>
@@ -21,7 +21,7 @@ function App() {
         </nav>
       </header>
 
-      <main id="top">
+      <main id="main">
         <section className="banner">
           <div>
             <h1>Znajdź coś dla siebie</h1>
@@ -53,12 +53,12 @@ function App() {
               <p>219,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
-            
+
           </div>
         </section>
       </main>
 
-      <footer className="footer">© 2026 sklep Wszystkie prawa zastrzeżone.</footer>
+      <footer className="footer">sklep</footer>
     </div>
   )
 }
