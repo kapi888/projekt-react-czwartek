@@ -32,24 +32,28 @@ function App() {
         <section className="products" id="produkty">
           <h2>Popularne produkty</h2>
           <div className="product-grid">
+
             <article className="product">
               <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=500&q=80" alt="Słuchawki" />
               <h3>Słuchawki bezprzewodowe</h3>
               <p>249,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
+
             <article className="product">
               <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=500&q=80" alt="Zegarek" />
               <h3>Zegarek</h3>
               <p>189,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
+
             <article className="product">
               <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80" alt="Sportowy but" />
               <h3>Buty sportowe</h3>
               <p>219,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
+            
           </div>
         </section>
       </main>
