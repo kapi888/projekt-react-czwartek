@@ -21,7 +21,7 @@ function Koszyk() {
         </div>
 
         <section className="cart-empty" aria-label="Pusty koszyk">
-          <div className="cart-empty-icon" aria-hidden="true">0</div>
+          <div className="cart-icon" aria-hidden="true">0</div>
           <h2>Twój koszyk jest pusty</h2>
           <p>Nie masz jeszcze żadnych produktów.</p>
           <a className="cart-continue" href="/">Wróć do zakupów</a>
