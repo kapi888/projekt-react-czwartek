@@ -42,14 +42,14 @@ function App() {
             </article>
             <article className="product">
               <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=500&q=80" alt="Zegarek" />
-              <h3>Zegarek Classic</h3>
-              <p>189,00 zł</p>
+              <h3>Zegarek</h3>
+              <p>189,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
             <article className="product">
               <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80" alt="Sportowy but" />
               <h3>Buty sportowe</h3>
-              <p>219,90 zł</p>
+              <p>219,99 zł</p>
               <button type="button">Dodaj do koszyka</button>
             </article>
           </div>
