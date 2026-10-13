@@ -22,6 +22,7 @@ button, input { font: inherit; }
 .search input { min-width: 0; flex: 1; padding: 0 12px; border: 1px solid #ccc; }
 .search button, .product button { padding: 0 16px; border: 0; background: var(--orange); color: white; cursor: pointer; }
 .cart { font-size: 14px; }
+.cart:hover { color: var(--orange); }
 .menu { min-height: 42px; display: flex; align-items: center; gap: 26px; border-top: 1px solid #eee; font-size: 14px; }
 .menu a:hover { color: var(--orange); }
 

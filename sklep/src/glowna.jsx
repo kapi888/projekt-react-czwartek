@@ -10,7 +10,7 @@ function App() {
             <input type="search" placeholder="Czego szukasz?"/>
             <button type="button">Szukaj</button>
           </div>
-          <span className="cart">Koszyk</span>
+          <a className="cart" href="/koszyk">Koszyk</a>
         </div>
         <nav className="menu">
           <a href="#produkty">Elektronika</a>
