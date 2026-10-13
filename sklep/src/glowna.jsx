@@ -24,9 +24,7 @@ function App() {
       <main id="top">
         <section className="banner">
           <div>
-            <p>WITAJ W SKLEPIE</p>
             <h1>Znajdź coś dla siebie</h1>
-            <span>Dobre produkty na każdy dzień.</span>
           </div>
           <img src="https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?auto=format&fit=crop&w=800&q=80" alt="Wybrane produkty do domu" />
         </section>
